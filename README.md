@@ -64,7 +64,7 @@ This guided project was designed to:
 
 ## 📁 Project Files
 
-- 📂 `Blinkit_Analysis.xlsx` – Main Excel workbook with dashboards and visualizations  
+- 📂 `Blinkit Analysis.xlsx` – Main Excel workbook with dashboards and visualizations  
 - 📄 `README.md` – This documentation  
 
 ---
